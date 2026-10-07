@@ -1,0 +1,31 @@
+# Gradle / build
+.gradle/
+build/
+.cxx/
+.externalNativeBuild/
+.kotlin/
+captures/
+
+# Android Studio
+.idea/
+*.iml
+local.properties
+
+# Secrets et signatures
+*.jks
+*.keystore
+keystore.properties
+google-services.json
+
+# Builds publiés
+app/release/
+*.apk
+*.aab
+
+# Logs de crash
+*.log
+hs_err_pid*
+replay_pid*
+
+# OS
+.DS_Store
