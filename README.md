@@ -7,10 +7,10 @@ It is a native Android app written in Kotlin with Jetpack Compose, following Mat
 ## Screenshots :
 
 <div align="center" id="screenshots">
-  
-  <img src="https://github.com/user-attachments/assets/c5db5a50-0fc3-4a08-8bb2-6c216a062a9d" alt="Home Screen" width="30%" />
-  <img src="https://github.com/user-attachments/assets/c01670ff-150d-4853-acdd-ac6d216ca910" alt="Top Albums" width="30%" />
+
+  <img src="https://github.com/user-attachments/assets/c642fb23-1111-4d83-8289-e97e25d4a192" alt="Home Screen" width="30%" />
   <img src="https://github.com/user-attachments/assets/2eca987b-deaa-486e-bf80-d62ab975d554" alt="Welcome Screen" width="30%" />
+  <img src="https://github.com/user-attachments/assets/c01670ff-150d-4853-acdd-ac6d216ca910" alt="Top Albums" width="30%" />
   
 </div>
 
