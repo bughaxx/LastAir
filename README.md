@@ -4,6 +4,13 @@ LastAir is a small music-focused social network for Android, built around Last.f
 
 It is a native Android app written in Kotlin with Jetpack Compose, following Material 3 Expressive.
 
+Screenshots :
+
+<img width="1080" height="2202" alt="Home_Screen_LastAir" src="https://github.com/user-attachments/assets/c5db5a50-0fc3-4a08-8bb2-6c216a062a9d" />
+<img width="864" height="1920" alt="Top_Albums_LastAir" src="https://github.com/user-attachments/assets/c01670ff-150d-4853-acdd-ac6d216ca910" />
+<img width="1080" height="2400" alt="Welcome_Screen_LastAir" src="https://github.com/user-attachments/assets/2eca987b-deaa-486e-bf80-d62ab975d554" />
+
+
 > **Project status: unfinished.** The app works for the most part, but some features are still missing (see [Progress](#progress)). This repository also serves as a way to track that progress.
 
 ## Features
